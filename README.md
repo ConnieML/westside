@@ -1,3 +1,7 @@
+# Current Status
+
+This repository has been archived due to no longer having relevant use in the current state of Connie.
+
 # Twilio Flex Project Template
 
 The _Flex Project Template_ is a starting point for Flex solutions of any size. It provides a methodology for managing all the key assets of a Twilio Flex solution:
